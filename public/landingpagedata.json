@@ -1,0 +1,121 @@
+{
+    "tab1": {
+        "header": "Brilliance at the Nexus of Innovation and Architecture",
+        "description1": "Bagmane Group, where groundbreaking innovation converges with architectural excellence. We pioneer the future of real estate, allowing you to experience true brilliance. Our expertise lies in creating transformative solutions for dynamic, forward-thinking companies, ensuring strategic advantage and sustainable success.",
+        "description2": "Our avant-garde developments have transformed Bengaluru’s landscape, leaving a lasting impact on this vibrant city. With a vision to replicate this success, we are ready to make significant strides in Chennai, Delhi, and Goa.",
+        "img": "https://www.bagmanegroup.com/media/filer_public/4d/d9/4dd9e5bc-e772-4ff3-ab31-275d00dd69a1/common-img.png"
+    },
+    "tab2": {
+        "header1": "Inspiring Possibilities,",
+        "header2": "Defining Workspaces.",
+        "img": "https://www.bagmanegroup.com/media/filer_public/59/b7/59b76add-e2d9-4245-b80f-92ad822eb124/home-sec-three-banner.webp",
+        "content1": [
+            {
+                "value": "500+",
+                "label": "Acres",
+                "des": "Total Campus Area"
+            },
+            {
+                "value": "27",
+                "des": "Built to Suit Projects"
+            }
+        ],
+        "content2": [
+            {
+                "value": "30",
+                "label": "Mn sq. ft.",
+                "des": "Total Development Size Operational"
+            },
+            {
+                "value": "5.3",
+                "label": "Mn sq. ft.",
+                "des": "Under Development"
+            }
+        ]
+    },
+    "tab3": {
+        "header": "What’s Happening at Bagmane",
+        "img": "https://www.bagmanegroup.com/static/bagmane/images/AdobeStock.webp",
+        "content": [
+            {
+                "header": "Bagmane Argon - Best Architectural Project",
+                "description": "Bagmane Argon has won the",
+                "description2": "Best Architectural Project – Commercial",
+                "description3": "award for South India, highlighting our innovation and excellence. This accolade reflects our commitment to blending functionality with aesthetic appeal in commercial spaces.",
+                "img": "https://www.bagmanegroup.com/media/filer_public/73/f6/73f65762-0ddc-4a00-a1f8-6ec01f3ae6bf/frame_55_2.webp"
+            },
+            {
+                "header": "‘Woman Achiever of the Year’ Ashwini Sumanth",
+                "description": "Mrs. Ashwini Sumanth, AVP - Marketing at Bagmane Group, has won the",
+                "description2": "Woman Achiever of the Year",
+                "description3": "award at the Economic Times Realty Awards 2024. This national honor recognizes her exceptional contributions and leadership in advancing Bagmane Group's success in commercial real estate.",
+                "img": "https://www.bagmanegroup.com/media/filer_public/b5/08/b508dcbd-8fe0-456e-9e72-53670b380890/frame_56.webp"
+            },
+            {
+                "header": "RUNCLE 2024 - A Unique Confluence of Running & Cycling",
+                "description": "As part of Bagmane's Social Awareness Campaign for World Health Day Initiative, we organized Runcle, a blend of cycling and running. All the employees working at Bagmane office parks came together to embrace an active lifestyle and promote teamwork, cohesiveness, and, most importantly, good health.",
+                "img": "https://www.bagmanegroup.com/media/filer_public/e5/f0/e5f06315-06b4-493d-a43a-249c4a2f1014/3_3.webp"
+            },
+            {
+                "header": "Bagmane Cricket League",
+                "description": "The Bagmane Premier League was a sterling showcase of sportsmanship and camaraderie, featuring 12 teams from various departments who participated with enthusiasm and spirit. The success of this tournament stands as a testament to Bagmane Group's unwavering commitment to fostering a vibrant and engaging workplace culture. ",
+                "img": "https://www.bagmanegroup.com/media/filer_public/4d/20/4d20ad78-91f2-456c-9b9f-66bf6a636063/4_2.webp"
+            },
+            {
+                "header": "British Safety Council 5-star Rating",
+                "description": "Bagmane Tech Park, World Technology Center, and Constellation Business Park have all earned a 5-star rating from the British Safety Council. BWTC and BCBP achieve this for the third consecutive year, with BTP securing it for the second year, showcasing our unwavering dedication to safety and excellence.",
+                "img": "https://www.bagmanegroup.com/media/filer_public/e8/af/e8afc9d4-b97c-46aa-9d12-adb91f0ea191/bsc_new_logo.webp"
+            }
+        ]
+    },
+    "tab4": {
+        "header": "Our Portfolio",
+        "leftSectionImgs": [
+            "https://www.bagmanegroup.com/media/filer_public/70/aa/70aace31-6347-4c6b-bbd6-1f952625393d/frame_1.webp",
+            "https://www.bagmanegroup.com/media/filer_public/25/af/25afcad7-45cd-4a10-94df-5ed0ee6f0932/wtc_without_hover.webp",
+            "https://www.bagmanegroup.com/media/filer_public/ff/e1/ffe1d99b-37cc-41ed-b873-1df69036583c/frame_4.webp",
+            "https://www.bagmanegroup.com/media/filer_public/5b/ed/5bed894d-0567-45cd-9a18-f3a3e4f629c5/frame_2.webp",
+            "https://www.bagmanegroup.com/media/filer_public/3a/71/3a71aeb0-910c-4d20-9ad2-c778f8fa40d4/solarium_without_hover.webp"
+        ],
+        "rightSectionImgs": [
+            "https://www.bagmanegroup.com/media/filer_public/93/09/9309d7e0-504c-4747-b3a3-430f3dab778b/image_23.webp",
+            "https://www.bagmanegroup.com/media/filer_public/3e/5c/3e5c2d1e-3d80-4105-818a-5b38937ad3e0/rio_updated_without_hover.webp",
+            "https://www.bagmanegroup.com/media/filer_public/f6/62/f662ff9a-267d-4c1f-863d-118f139a0ed3/cosmos_without_hover_image.webp",
+            "https://www.bagmanegroup.com/media/filer_public/06/8d/068d869c-d3b2-482c-a9e6-cceb1dd0c2d9/upcoming_3.png"
+        ],
+        "mobileSectionImg": [
+            "https://www.bagmanegroup.com/media/filer_public/70/aa/70aace31-6347-4c6b-bbd6-1f952625393d/frame_1.webp",
+            "https://www.bagmanegroup.com/media/filer_public/25/af/25afcad7-45cd-4a10-94df-5ed0ee6f0932/wtc_without_hover.webp",
+            "https://www.bagmanegroup.com/media/filer_public/70/aa/70aace31-6347-4c6b-bbd6-1f952625393d/frame_1.webp",
+            "https://www.bagmanegroup.com/media/filer_public/25/af/25afcad7-45cd-4a10-94df-5ed0ee6f0932/wtc_without_hover.webp",
+            "https://www.bagmanegroup.com/media/filer_public/70/aa/70aace31-6347-4c6b-bbd6-1f952625393d/frame_1.webp",
+            "https://www.bagmanegroup.com/media/filer_public/25/af/25afcad7-45cd-4a10-94df-5ed0ee6f0932/wtc_without_hover.webp",
+            "https://www.bagmanegroup.com/media/filer_public/70/aa/70aace31-6347-4c6b-bbd6-1f952625393d/frame_1.webp",
+            "https://www.bagmanegroup.com/media/filer_public/25/af/25afcad7-45cd-4a10-94df-5ed0ee6f0932/wtc_without_hover.webp"
+        ]
+    },
+    "tab5": {
+        "header": "Hospitality",
+        "description": "Bagmane group is delighted to announce Bangalore’s first ultra-luxurious St. Regis hotel, complemented by Courtyard by Mariott. This prestigious development will feature a total of 607 keys, with 207 keys dedicated to St. Regis and 400 keys to Courtyard Marriott, offering unparalleled luxury and comfort in the heart of the city.",
+        "sponsers": [
+            "https://www.bagmanegroup.com/media/filer_public/a4/69/a4691702-a2e0-43ed-addf-bce73ce82df8/st_regis_logo_1.png",
+            "https://www.bagmanegroup.com/media/filer_public/19/3c/193c5da4-2519-4a8c-adf7-ea5855e45d07/marriot_logo_colour.svg"
+        ],
+        "img": "https://www.bagmanegroup.com/media/filer_public/f3/d9/f3d92ae7-9eb0-4374-b349-d5df3cef7537/group_32417.webp"
+    },
+    "tab6": {
+        "header": "Retail",
+        "description": "Retail at Bagmane is dedicated to delivering exceptional food and entertainment experiences within uniquely designed spaces. Our world-class architecture features amphitheaters, exhibit areas, and an inviting structural ambiance. Strategically located across our parks along the main thoroughfare, these retail spaces are designed for convenience and ease of access, redefining the way our clients and visitors engage with retail.",
+        "sponsers": [
+            "https://www.bagmanegroup.com/media/filer_public/9e/ea/9eea3888-7d5a-4449-a93e-6d17c20bd7d8/chaayos.svg",
+            "https://www.bagmanegroup.com/media/filer_public/30/5a/305a2145-5129-40cb-8df5-e7e3608f3ecc/br_colour.svg",
+            "https://www.bagmanegroup.com/media/filer_public/8a/65/8a6551fd-860c-4360-8481-523f76bbd1fa/gopizza_colour.svg",
+            "https://www.bagmanegroup.com/media/filer_public/b2/02/b202f7d3-d9ec-4535-ab75-ddc88fe93725/wow_momo_colour.svg",
+            "https://www.bagmanegroup.com/media/filer_public/54/e3/54e360c2-d9ae-42ed-833f-c3efde2959ea/dominoes.svg",
+            "https://www.bagmanegroup.com/media/filer_public/41/d8/41d844bb-05e5-4326-b0f3-d83641046527/kfc-a.svg",
+            "https://www.bagmanegroup.com/media/filer_public/78/05/78059c49-ed72-45e2-90eb-8d34e50c4c50/california_burrito.svg",
+            "https://www.bagmanegroup.com/media/filer_public/7b/bb/7bbb286c-b9f8-4568-9150-6dcb04a9735a/subway.svg"
+        ],
+        "img": "https://www.bagmanegroup.com/media/filer_public/56/ae/56ae9c93-5737-4e46-9231-dc5f7c369af3/retail2.webp"
+    }
+}
