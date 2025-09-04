@@ -1,29 +1,40 @@
-import React from 'react'
+import Image from "next/image";
 
 function SectionSix({ sectionData }) {
-    console.log(sectionData)
     return (
-        <div className='flex w-full !p-5 md:flex-row flex-col'>
-            <div className='md:w-[50%] w-full md:order-1 order-2' style={{ marginLeft: "15px" }}>
-                <div className='md:w-[85%] w-full flex flex-col gap-3'>
-                    <h1 className='header'>{sectionData?.header}</h1>
-                    <p className='hospilaity_retai'>{sectionData?.description}</p>
-                    <div>
-                        <ul className='flex gap-5 flex-wrap w-full'>
-                            {sectionData.sponsers.map((e) =>
-                                <div className='w-[26%] flex' key={e}>
-                                    <img src={e} alt='image' />
-                                </div>
-                            )}
-                        </ul>
-                    </div>
+        <section className="flex flex-col-reverse md:flex-row items-center justify-between w-full mx-auto px-6 py-16 gap-10">
+            <div className="w-full md:w-1/2 flex flex-col gap-4 !pl-10 md:!pl-[45px] space-y-6">
+                <h2 className="header">
+                    {sectionData.header}
+                </h2>
+                <p className="description md:w-[78%] w-full">
+                    {sectionData.description}
+                </p>
+
+                <div className="flex flex-wrap items-center gap-8 pt-6">
+                    {sectionData.sponsers.map((e) => (
+                        <Image
+                            key={e}
+                            src={e}
+                            alt="Domino's"
+                            width={60}
+                            height={30}
+                            className="object-contain"
+                        />
+                    ))}
                 </div>
             </div>
-            <div className='md:w-[50%] w-full md:order-2 order-1 md:mb-0 mb-3'>
-                <img src={sectionData.img} className='object-cover' />
+            <div className="w-full md:w-1/2 !md:ml-0 !ml-10">
+                <Image
+                    src={sectionData.img}
+                    alt="Retail spaces"
+                    width={900}
+                    height={600}
+                    className="shadow-lg object-cover"
+                />
             </div>
-        </div>
-    )
+        </section>
+    );
 }
 
 export default SectionSix

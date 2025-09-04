@@ -26,7 +26,7 @@ function Landing() {
     }, []);
 
     return (
-        <div className='w-full h-full'>
+        <div className='w-full h-full flex flex-col gap-10'>
             {data?.tab1 && <SectionOne sectionData={data.tab1} />}
             {data?.tab2 && <SectionTwo sectionData={data.tab2} />}
             {data?.tab3 && <SectionThree sectionData={data.tab3} />}

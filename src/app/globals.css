@@ -14,7 +14,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.5;
   font-size: 1rem;
-  font-family: var(--bs-font-sans-serif)
+  font-family: var(--bs-font-sans-serif);
 }
 
 * {
@@ -24,23 +24,79 @@ body {
 }
 
 .header {
-  color: #3e513a;
+  font-family: Unna;
   font-size: 45px;
-  width: 70%;
-  margin-bottom: 3%;
+  font-weight: 500;
+  line-height: 54px;
+  color: rgb(62, 81, 58);
+}
+
+.caurosel-header {
+  font-family: Unna;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 48px;
+  color: rgb(205, 180, 122);
+}
+
+.corporate-header {
+  font-family: Unna;
+  font-size: 34px;
+  font-weight: 400;
+  line-height: 40.8px;
+  color: rgb(255, 255, 255);
+}
+.corporate-content-value {
+  font-family: Unna;
+  font-size: 42px;
+  font-weight: 400;
+  line-height: 50.4px;
+  color: rgb(255, 255, 255);
+}
+.corporate-content-label {
+  font-family: Unna;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.6px;
+  color: rgb(255, 255, 255);
+}
+.corporate-content-des {
+  font-family: "Gilroy-Light", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  color: rgb(182, 182, 182);
+}
+.section1-description {
+  font-family: "Gilroy-Light", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 37.4px;
+  color: rgb(192, 161, 119);
+}
+@media screen and (max-width: 768px) {
+  .header {
+    font-size: 32px;
+  }
+  .description {
+    font-size: 14px;
+  }
 }
 
 .description {
-  font-family: 'Gilroy-Light', sans-serif;
-  line-height: 1.5;
+  font-family: "Gilroy-Light", sans-serif;
   font-size: 16px;
-  /* color: #5b5b5b */
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(91, 91, 91);
 }
 
 .hospilaity_retai {
-  font-family: 'Gilroy-Light', sans-serif;
-  line-height: 1.5;
-  font-size: 16px;
   color: #5b5b5b;
-  width: 85%
+  width: 85%;
+  font-family: "Gilroy-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(91, 91, 91);
 }

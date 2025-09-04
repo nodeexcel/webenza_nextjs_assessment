@@ -1,29 +1,40 @@
-import React from 'react'
+import Image from "next/image";
 
 function SectionFive({ sectionData }) {
-    console.log(sectionData)
     return (
-        <div className='flex w-full !p-5 md:flex-row flex-col'>
-            <div className='md:w-[50%] w-full md:mb-0 mb-3'>
-                <img src={sectionData.img} className='object-cover' />
+        <section className="flex flex-col md:flex-row items-center justify-between w-full mx-auto px-6 py-16 gap-10">
+            <div className="w-full md:w-1/2 !md:mr-0 !mr-10">
+                <Image
+                    src={sectionData.img}
+                    alt="Hospitality building"
+                    width={900}
+                    height={600}
+                    className="shadow-lg object-cover"
+                />
             </div>
-            <div className='md:w-[50%] w-full' style={{ marginLeft: "15px" }}>
-                <div className='md:max-w-[85%] w-full flex flex-col gap-3'>
-                    <h1 className='header'>{sectionData?.header}</h1>
-                    <p className='hospilaity_retai'>{sectionData?.description}</p>
-                    <div>
-                        <ul className='flex gap-5 flex-wrap w-full'>
-                            {sectionData.sponsers.map((e) =>
-                                <div className='w-[26%] flex' key={e}>
-                                    <img src={e} alt='image' />
-                                </div>
-                            )}
-                        </ul>
-                    </div>
+
+            <div className="w-full md:w-1/2 flex flex-col gap-4 space-y-6 !pl-10 md:!pl-0">
+                <h2 className="header">
+                    {sectionData.header}
+                </h2>
+                <p className="description md:w-[78%] w-full">
+                    {sectionData.description}
+                </p>
+                <div className="flex items-center gap-10 pt-4">
+                    {sectionData.sponsers.map((e) => (
+                        <Image
+                            key={e}
+                            src={e}
+                            alt="img"
+                            width={100}
+                            height={30}
+                            className="object-contain"
+                        />
+                    ))}
                 </div>
             </div>
-        </div>
-    )
+        </section>
+    );
 }
 
 export default SectionFive
