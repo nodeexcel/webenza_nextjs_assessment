@@ -1,6 +1,7 @@
 import React from 'react'
 
 function SectionOne({ sectionData }) {
+  console.log(sectionData)
   return (
     <section className="flex flex-col md:flex-row items-center justify-between w-full mx-auto px-6 py-16 gap-10">
 
